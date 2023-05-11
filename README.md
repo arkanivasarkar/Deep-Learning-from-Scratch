@@ -1,9 +1,7 @@
 # Neural-Networks-from-Scratch
 
 This repository contains the implementation of deep learning networks from scratch.
-
 <br>
-
 ## Description
 This project was developed as a part of the programming exercises of the **Deep Learning** course offered by the [**Pattern Recognition Lab**](https://lme.tf.fau.de/) at **Friedrich-Alexander-Universität (FAU)**.
 
