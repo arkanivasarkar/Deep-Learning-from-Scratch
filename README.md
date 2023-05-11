@@ -13,8 +13,7 @@ The codes are written in *Python* using object oriented programming concepts suc
 <br>
 
 ## Methods
-The project is implemented in three parts as mentioned below. \
-`NeuralNetwork.py` imports all layers and functions and runs them. `NeuralNetwork.py` contains unit tests for each and every layer and function to check if the implementation was properly done.
+The project is implemented in three parts as mentioned below. `NeuralNetwork.py` imports all layers and functions and runs them. `NeuralNetwork.py` contains unit tests for each and every layer and function to check if the implementation was properly done.
 
 
 
