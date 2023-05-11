@@ -1,10 +1,6 @@
 # Neural-Networks-from-Scratch
 
-This repository contains the implementation of deep learning networks from scratch.
-<br>
-<br>
-## Description
-This project was developed as a part of the programming exercises of the **Deep Learning** course offered by the [**Pattern Recognition Lab**](https://lme.tf.fau.de/) at **Friedrich-Alexander-Universität (FAU)**.
+This repository contains the implementation of deep learning networks from scratch. It project was developed as a part of the programming exercises of the **Deep Learning** course offered by the [**Pattern Recognition Lab**](https://lme.tf.fau.de/) at **Friedrich-Alexander-Universität (FAU)**.
 
 The codes are written in *Python* using object oriented programming concepts such as, *inheritance* or *polymorphism*. All fundamental layers, activation and loss functions, optimizers and regularizers are implemented by coding the corresponding mathematical operations using *NumPy* only, without the use of any deep learning frameworks. 
 
